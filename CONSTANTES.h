@@ -1,0 +1,11 @@
+#ifndef CONSTANTES_H_INCLUDED
+#define CONSTANTES_H_INCLUDED
+
+
+
+#endif // CONSTANTES_H_INCLUDED
+
+#define MAXCASE 11
+#define MINCASE 8
+#define n 4
+#define MAXJOUEURS 100
