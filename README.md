@@ -55,6 +55,7 @@ dernier embranchement non encore emprunté dans l’arbre des possibilités.
   <img src="https://user-images.githubusercontent.com/51321011/59166219-62422c00-8b27-11e9-9a22-dcaf8217a69d.PNG">
 </p>
 
-# :wrench: Outils
+# :wrench: Outiles
+
 
 ![ref](https://user-images.githubusercontent.com/51321011/59166629-e696ae00-8b2b-11e9-8895-01d71df200de.PNG)
