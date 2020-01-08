@@ -6,8 +6,6 @@ tous diﬀérents qui ne se trouvent jamais plus d’une  fois sur la même lign
 la forme de sudoku sera une grille de 4 régions, les régions étant alors des carrés de 2x2 à remplir par des objets qui attirent 
 l’attention de l’enfant.
 
-:boy:**Réaliser par** :point_right: <a href="https://github.com/IsmailBarkani"> **Ismail Barkani** </a>
-
 # :pencil2: modélisation
 
 ## :ok: Vériﬁcation
